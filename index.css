@@ -15,7 +15,7 @@ body {
   border-radius: 5px;
 }
 header {
-  background: url("/assets/Wonder-Woman-1984.jpg") top/cover;
+  background: url("./assets/Wonder-Woman-1984.jpg") top/cover;
 
   color: white;
 }
@@ -86,19 +86,19 @@ header img {
   border-radius: 15px;
 }
 .vd1 {
-  background: url("/assets/ad_astra.jpg") center/cover;
+  background: url("./assets/ad_astra.jpg") center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .vd2 {
-  background: url("/assets/joker-joaquin-phoenix.jpg") center/cover;
+  background: url("./assets/joker-joaquin-phoenix.jpg") center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .vd3 {
-  background: url("/assets/812uG5uFZhL.jpg") top/cover;
+  background: url("./assets/812uG5uFZhL.jpg") top/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -139,7 +139,7 @@ header img {
   justify-content: space-between;
 }
 .imgnp {
-  background: url("/assets/ad_astra.jpg") center/cover;
+  background: url("./assets/ad_astra.jpg") center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -182,7 +182,7 @@ h3 {
   width: 120px;
   height: 80px;
   border-radius: 10%;
-  background: url(/assets/disney-cars-aladdin-raiponce-les-clins-d-oeil-caches-dans-les-films-disney-pixar-33-photos.jpg)
+  background: url("./assets/disney-cars-aladdin-raiponce-les-clins-d-oeil-caches-dans-les-films-disney-pixar-33-photos.jpg")
     center/cover;
   display: flex;
   align-items: center;
@@ -192,7 +192,7 @@ h3 {
   width: 120px;
   height: 80px;
   border-radius: 10%;
-  background: url(/assets/cover-r4x3w1000-583516a235146-inception-inception-21-07-2010-5-g.jpg)
+  background: url("./assets/cover-r4x3w1000-583516a235146-inception-inception-21-07-2010-5-g.jpg")
     center/cover;
   display: flex;
   align-items: center;
@@ -202,7 +202,7 @@ h3 {
   width: 120px;
   height: 80px;
   border-radius: 10%;
-  background: url(/assets/EA34B244F31C104EBB202E8A769CE96B56C42AA4FE63E5B93230D4A7A1E15FB0.png)
+  background: url("./assets/EA34B244F31C104EBB202E8A769CE96B56C42AA4FE63E5B93230D4A7A1E15FB0.png")
     center/cover;
   display: flex;
   align-items: center;
